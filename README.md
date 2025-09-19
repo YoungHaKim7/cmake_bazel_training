@@ -38,6 +38,9 @@
 - [(250215) import CMake; // Mastering C++ Modules - Bill Hoffman - CppCon 2024 | CppCon](https://youtu.be/7WK42YSfE9s?si=mmlQQDcx1F5Jb1fZ)
 - [(211230) Modern CMake Modules - Bret Brown - CppCon 2021 | CppCon](https://youtu.be/IZXNsim9TWI?si=2C5zzjEMciroNb0V)
 
+- ninja섞어서 써야 빠르다.
+  - [(240611) Using CMake Dependencies Effectively (aka like a Ninja) | PunchedTape](https://youtu.be/suSsx9SbXDM?si=aBLT63Zs3IcCBsSL)
+
 
 <hr />
 
