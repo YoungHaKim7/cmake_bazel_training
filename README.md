@@ -5,6 +5,8 @@
 # 내가 정리한 cmake 예시 코드
 - C언어 (c23)
   - https://github.com/YoungHaKim7/c23_pthread_cmake_just_sample
+  - C 완전 기초
+    - https://github.com/YoungHaKim7/C_Programming_Kernigan_and_Ritchie
 
 - C++언어( C++23/26)
   - https://github.com/YoungHaKim7/cpp26_pthread_cmake_just_sample
