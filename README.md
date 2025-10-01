@@ -29,6 +29,7 @@
 <hr />
 
 # cmake build 잘 설명
+- [250115 완전기초 VSCode로 설명 굿 Hello CMake! (using CMakePresets.json) | Erarnitox](https://youtu.be/2m-96nNUjMw?si=RUf5ubSOQxhGVAsm)
 - [(250804) How to Avoid Headaches with Simple CMake - Bret Brown - C++Now 2025 | CppNow](https://youtu.be/xNHKTdnn4fY?si=AKuMXfdIrpggll_P)
 - [(250828) CMake for the Impatient - Steve Love - C++ on Sea 2025 | cpponsea](https://youtu.be/t6iV5_plo20?si=hbBFRwxSQKOVlWET)
 - [(250830) Post-Modern Cmake - From 3.0 to 4.0 - Vito Gamberini - C++Now 2025 | CppNow](https://youtu.be/K5Kg8TOTKjU?si=hbfYk_m2JjlpmXKg)
