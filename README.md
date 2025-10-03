@@ -32,6 +32,8 @@
 
 # cmake build 잘 설명
 - [250115 완전기초 VSCode로 설명 굿 Hello CMake! (using CMakePresets.json) | Erarnitox](https://youtu.be/2m-96nNUjMw?si=RUf5ubSOQxhGVAsm)
+  - [251003 cmake과정 구체적으로 완전 굿 CPS in Cmake - Marching Towards Standard C++ Dependency Management - Bill Hoffman - C++Now 2025 | CppNow](https://youtu.be/Hk4fv4dD0UQ?si=4OD1COy-YDreTMfU)
+- https://youtu.be/Hk4fv4dD0UQ?si=8ELtbGyfNX8PfOXa
 - [(250804) How to Avoid Headaches with Simple CMake - Bret Brown - C++Now 2025 | CppNow](https://youtu.be/xNHKTdnn4fY?si=AKuMXfdIrpggll_P)
 - [(250828) CMake for the Impatient - Steve Love - C++ on Sea 2025 | cpponsea](https://youtu.be/t6iV5_plo20?si=hbBFRwxSQKOVlWET)
 - [(250830) Post-Modern Cmake - From 3.0 to 4.0 - Vito Gamberini - C++Now 2025 | CppNow](https://youtu.be/K5Kg8TOTKjU?si=hbfYk_m2JjlpmXKg)
