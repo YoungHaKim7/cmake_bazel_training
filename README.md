@@ -57,3 +57,7 @@
 
 # cmake + bazel조합
 - https://blog.bkryza.com/posts/compile-commands-json-gallery/
+
+# clangd (cache폴더 만드는거 알아보니 compile_commands.json과 연결)
+- https://www.jetbrains.com/help/clion/compilation-database.html#make
+ https://clangd.llvm.org/extensions#compilation-commands
