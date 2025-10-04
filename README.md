@@ -53,3 +53,7 @@
 - CmakePresets.json
   - [(210507)CMakePresets.json 소개 | Microsoft Developer](https://youtu.be/NFbnm1t6Mc4?si=fEynkOaO6XlI1-EF)
     - CMakePresets.json은 CMake 3.19/3.20에서 CMake에 추가되었으며, 사용자가 일반적인 구성, 빌드 및 테스트 옵션을 다른 사용자와 공유할 수 있도록 합니다. Microsoft와 Kitware 담당자들이 CMakePresets.json과 이를 통해 해결하고자 하는 문제에 대해 논의하는 자리에 함께해 보세요. 또한 Visual Studio, Visual Studio Code 및 CLI에서 CMakePresets.json을 지원하는 방법을 시연합니다 
+
+
+# cmake + bazel조합
+- https://blog.bkryza.com/posts/compile-commands-json-gallery/
